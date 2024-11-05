@@ -1,3 +1,3 @@
 # Color Picker 
 
-##Librairies :tkinter, pillow 
+Librairies : tkinter, pillow 
